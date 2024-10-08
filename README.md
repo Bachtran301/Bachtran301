@@ -16,18 +16,7 @@
 
 ## 🛠️Languages and Tools
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-</div>
+<img align="center" src="https://skillicons.dev/icons?i=html,css,pug,java,js,nodejs,python,django,postman,discord,mongodb,git,github&theme=dark"/>
 
 ---
 
