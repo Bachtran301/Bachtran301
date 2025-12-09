@@ -22,13 +22,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BachTran301&show_icons=true&count_private=true&theme=vue" alt="BachTran301" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BachTran301&show_icons=true&locale=en&layout=compact&theme=vue" alt="BachTran301" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BachTran301&theme=github-dark-dimmed" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
